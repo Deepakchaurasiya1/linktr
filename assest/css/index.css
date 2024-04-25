@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   font-family: Link Sans", "Arial Black", Arial, sans-serif";
+
+}
+
+  /* Navbar Button Hidden */
+  @media (max-width:1200px) {
+    .navbtn {                            
+        display: none !important;    
+    }        
+}
+
+/* Slider Section */
+
+@media screen and(max-width:) {
+    
+}
